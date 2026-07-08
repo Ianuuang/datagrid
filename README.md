@@ -1,3 +1,15 @@
+# ⚠️ Project Status
+
+This project is currently in **maintenance mode**.
+
+Unfortunately, I no longer have enough time to actively develop or maintain this project.
+
+The repository will remain public, and community contributions are welcome.
+
+If you're interested in becoming a maintainer, please open an issue or contact me.
+
+Thank you to everyone who has used, starred, contributed to, or reported issues for this project ❤️
+
 # Tzezar's Datagrid
 
 Headless Core & Enhanced component made with [shadcn-svelte](https://next.shadcn-svelte.com/)
